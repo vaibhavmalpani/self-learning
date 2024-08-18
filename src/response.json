@@ -1,0 +1,76 @@
+{
+  "facets": {},
+  "nextToken": "eyJzdGFydEluZGV4Ijo1MCwic2VhcmNoSWQiOiI0ZTg3YTI5ZC0wNTcxLTQ5OGYtYjcwOC1iNzllOTA4ZThmYjgifQ==",
+  "result": [
+    {
+      "documentId": "800-003284",
+      "internalScore": 8.623129,
+      "object": {
+        "materialDefinition": {
+          "category": "PART",
+          "controlSystem": "AGILE",
+          "createTimeUTC": "2012-12-21T22:01:50Z",
+          "createdBy": {
+            "alias": "eprathe"
+          },
+          "description": "Checklist, Qualification, Slimline09, SGI, Internal",
+          "lastUpdateTimeUTC": "2024-06-28T21:32:14.767Z",
+          "lastUpdatedBy": {
+            "alias": ""
+          },
+          "materialClass": "HWENG DOCUMENT",
+          "partNumber": "800-003284",
+          "properties": [
+            {
+              "dataType": "TEXT",
+              "name": "Prop1",
+              "values": ["Value1", "Value11"]
+            },
+            {
+              "dataType": "TEXT",
+              "name": "Prop2",
+              "values": ["Value2", "Value22"]
+            }
+          ],
+          "revision": "A",
+          "status": "Production"
+        }
+      }
+    },
+    {
+      "documentId": "503-000934-001",
+      "internalScore": 8.883766,
+      "object": {
+        "materialDefinition": {
+          "category": "PART",
+          "controlSystem": "AGILE",
+          "createTimeUTC": "2018-10-12T00:11:35Z",
+          "createdBy": {
+            "alias": "ravanand"
+          },
+          "description": "INTERNAL SATA CABLE C4",
+          "lastUpdateTimeUTC": "2024-07-01T13:14:34.471Z",
+          "lastUpdatedBy": {
+            "alias": ""
+          },
+          "materialClass": "CABLE",
+          "partNumber": "503-000934-001",
+          "properties": [
+            {
+              "dataType": "TEXT",
+              "name": "Prop1",
+              "values": ["Value21"]
+            },
+            {
+              "dataType": "TEXT",
+              "name": "Prop3",
+              "values": ["Value3", "Value33"]
+            }
+          ],
+          "revision": "A",
+          "status": "Production"
+        }
+      }
+    }
+  ]
+}
